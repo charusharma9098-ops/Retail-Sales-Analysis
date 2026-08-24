@@ -128,9 +128,19 @@ The dashboards provide a visual way to explore the analysis and compare differen
 <img width="849" height="488" alt="Region Analysis" src="https://github.com/user-attachments/assets/959bfcb9-10e2-412b-a1d0-dc8f6327cd43" />
 
 
+## Key Business Insights
 
+*Revenue decreased when orders decreased: From May to June 2023, revenue decreased by 18.83%, while orders decreased by 17.86%, showing that the drop in orders was closely related to the revenue decline.
 
+*Profit dropped in May 2024: Profit decreased by 60.01% from April to May 2024, while the average discount increased from 8.10% to 23.61%.
 
+*New customers decreased: New customers dropped from 22 in September 2024 to 7 in October 2024, a 68.18% decrease. Revenue also decreased by 8.79%.
+
+*27-inch Monitor was the top product: It generated around 9.3M in revenue, making it the highest-revenue product among the products analyzed.
+
+*North was the top-performing region: North generated around 11.2M in revenue, while East had the lowest revenue at around 5.3M.
+
+*Some products showed large changes: Product-level analysis helped identify products with significant changes in revenue and orders that may need further attention
 
 
 
