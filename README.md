@@ -106,6 +106,34 @@ The dashboards provide a visual way to explore the analysis and compare differen
 
 ---
 
+
+### Revenue Analysis
+<img width="873" height="487" alt="Revenue Analysis" src="https://github.com/user-attachments/assets/742ea025-8683-4cd8-bc71-9aac65bed22d" />
+
+
+
+### Profit Analysis
+<img width="873" height="489" alt="Profit Analysis" src="https://github.com/user-attachments/assets/531499ad-e8c2-4425-9b9d-b7dea6f4108b" />
+
+
+### Customer Analysis
+<img width="866" height="487" alt="Customers Analysis" src="https://github.com/user-attachments/assets/7ac16b78-7d71-4a23-ae16-d9599121abbd" />
+
+
+### Product Analysis
+<img width="873" height="488" alt="Product Analysis" src="https://github.com/user-attachments/assets/8d15aa15-f227-4729-9793-f7bbffb14eaf" />
+
+
+### Region Analysis
+<img width="849" height="488" alt="Region Analysis" src="https://github.com/user-attachments/assets/959bfcb9-10e2-412b-a1d0-dc8f6327cd43" />
+
+
+
+
+
+
+
+
 ## Project Structure
 
 ```text
@@ -126,7 +154,7 @@ Retail-Sales-Analysis/
 ├── Power BI/
 │   └── Retail Sales Analysis.pbix
 │
-└── Dashboard Screenshorts/
+└── Dashboard Screenshots/
     ├── Customers Analysis.png
     ├── Product Analysis.png
     ├── Profit Analysis.png
